@@ -24,7 +24,7 @@ Quick-look plots and figures used for Harkett et al. (2024) generated for the JW
 
 ### flat_field
 
-Contains the derived flat-field frames calculated from the observed GRS data ([Fletcher et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007924), King et al., doi: 10.3847/2515-5172/ad045f).
+Contains the derived flat-field frames calculated from the observed GRS data ([Fletcher et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007924), [King et al., 2023](https://iopscience.iop.org/article/10.3847/2515-5172/ad045f)).
 
 ### nemesis_files
 
@@ -36,4 +36,4 @@ All other codes used in this study including those used to generate the plots an
 
 ## See also
 
-The [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines) (King et al., doi: 10.3847/2515-5172/ad045f) contains the reduction pipeline code used to calibrate the raw MIRI data before performing the NEMESIS atmospheric retrievals.
+The [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines) ([King et al., 2023](https://iopscience.iop.org/article/10.3847/2515-5172/ad045f)) contains the reduction pipeline code used to calibrate the raw MIRI data before performing the NEMESIS atmospheric retrievals.
