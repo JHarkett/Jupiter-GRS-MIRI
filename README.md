@@ -24,7 +24,7 @@ Quick-look plots and figures used for Harkett et al. (2024) generated for the JW
 
 ### flat_field
 
-Contains the derived flat-field frames calculated from the observed GRS data ([Fletcher et al., 2023](doi: 10.1029/2023JE007924), King et al., doi: 10.3847/2515-5172/ad045f).
+Contains the derived flat-field frames calculated from the observed GRS data ([Fletcher et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007924), King et al., doi: 10.3847/2515-5172/ad045f).
 
 ### nemesis_files
 
