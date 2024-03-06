@@ -15,6 +15,6 @@ Contains both the raw JWST/MIRI data and the atmospheric retrieval results, ther
 
 ```/[epoch]/[tile]/``` is the location of the raw data
 
-/[epoch]/[tile]/retrieval_data/ is the location of the retrieval results for each tile
+```/[epoch]/[tile]/retrieval_data/``` is the location of the retrieval results for each tile
 
-/[epoch]/mosaics_stage[number]/ is the location of the combined retrieval maps of temperature, ammonia, phosphine and aerosol distributions. [number] is either 1, 2 or 2_aux
+```/[epoch]/mosaics_stage[number]/``` is the location of the combined retrieval maps of temperature, ammonia, phosphine and aerosol distributions. [number] is either 1, 2 or 2_aux
