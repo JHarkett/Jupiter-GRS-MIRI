@@ -5,7 +5,7 @@ Jake Harkett, Leigh N. Fletcher, Oliver R.T. King, Michael T. Roman, Henrik Meli
 
 ## Contents
 
-**figures**
+### figures
 
 Quick-look plots and figures used for Harkett et al. (2024) generated for the JWST/MIRI data and resulting atmospheric retrievals.
 
