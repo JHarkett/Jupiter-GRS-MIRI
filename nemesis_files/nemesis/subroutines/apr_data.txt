@@ -1,0 +1,12 @@
+#ID	iso	name	name2	p_knee	dp_knee	p_zero	dp_zero	vmr	dvmr	fsh	dfsh	dpro0	dpro3	pro3	op	dop	width	dwidth
+-1	0	aero1	CP1	0.8	0.1	0.1	0.1	nan	nan	0.1	0.1	0.1	1.0	1.0	1.0	0.1	0.5	0.5
+-2	0	aero2	CP2	1.2	0.1	0.1	0.1	nan	nan	0.1	0.1	0.1	0.5	1.0	1.0	0.1	0.5	0.5
+00	0	temp	Temp	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1.0	nan	nan	nan	nan
+01	0	h2o	H2O	5.0	0.1	0.1	0.1	2.0e-4	5.0e-5	0.1	0.1	1.0	1.0	1.0	nan	nan	nan	nan
+11	0	nh3	NH3	1.0	0.1	0.1	0.1	2.0e-4	5.0e-5	0.15	0.1	1.0	0.2	1.0	nan	nan	nan	nan
+11	1	14nh3	14NH3	0.8	0.1	0.1	0.1	2.0e-4	0.0001	0.15	0.1	1.0	0.2	1.0	nan	nan	nan	nan
+11	2	15nh3	15NH3	0.8	0.1	0.1	0.1	2.0e-4	0.0001	0.15	0.1	1.0	1.0	1.0	nan	nan	nan	nan
+28	0	ph3	PH3	1.0	0.1	0.1	0.1	1.0e-6	0.1e-6	0.3	0.1	1.0	0.2	1.0	nan	nan	nan	nan
+26	0	c2h2	C2H2	nan	nan	nan	nan	nan	nan	2.0	1.0	0.3	0.1	1.0	nan	nan	nan	nan
+27	0	c2h6	C2H6	nan	nan	nan	nan	nan	nan	2.0	1.0	0.3	0.1	1.0	nan	nan	nan	nan
+34	0	c3h8	C3H8	nan	nan	nan	nan	nan	nan	nan	nan	nan	0.1	1.0	nan	nan	nan	nan
