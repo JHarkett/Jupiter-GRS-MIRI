@@ -27,3 +27,5 @@ All other codes used in this study including those used to generate the plots an
 ## See also
 
 The [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines) ([King et al., 2023](https://iopscience.iop.org/article/10.3847/2515-5172/ad045f)) contains the reduction pipeline code used to calibrate the raw MIRI data before performing the NEMESIS atmospheric retrievals.
+
+The [JWST Giant Planets repository](https://github.com/JWSTGiantPlanets) contains further tools for calibrating, reducing and analysing data from JWST/MIRI and JWST/NIRSpec.
