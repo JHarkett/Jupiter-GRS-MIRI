@@ -6,7 +6,7 @@ Jake Harkett, Leigh N. Fletcher, Oliver R.T. King, Michael T. Roman, Henrik Meli
 ## Contents
 
 ### context_data
-Contains Hubble visual context data taken on 2022-07-28, an amateur cylindrical map (Miyazaki, I.) compiled from vivible observations made by; Mike Wölle (Austria), Jacques van der Meer (France) and Ed Grafton (U.S.A) on 2022-08-15 and mid-Infrared VLT/VISIR data taken on 2022-08-08.
+Contains Hubble visual context data taken on 2022-07-28, an amateur cylindrical map (Miyazaki, I.) compiled from visible observations made by; Mike Wölle (Austria), Jacques van der Meer (France) and Ed Grafton (U.S.A) on 2022-08-15 and mid-Infrared VLT/VISIR data taken on 2022-08-08.
 
 ### data
 
