@@ -13,7 +13,7 @@ Quick-look plots and figures used for Harkett et al. (2024) generated for the JW
 
 Contains both the raw JWST/MIRI data and the atmospheric retrieval results, there are two epochs of data; July and August. For each epoch there are three sets of observations (tiles); East, Centre and West (Note July does not contain west data). A 3-stage NEMESIS atmospheric retrieval process was used containing; stage 1, stage 2 and stage 2 Auxiliary (AUX).
 
-'''/[epoch]/[tile]/''' is the location of the raw data
+```/[epoch]/[tile]/``` is the location of the raw data
 
 /[epoch]/[tile]/retrieval_data/ is the location of the retrieval results for each tile
 
