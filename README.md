@@ -8,16 +8,6 @@ Jake Harkett, Leigh N. Fletcher, Oliver R.T. King, Michael T. Roman, Henrik Meli
 ### context_data
 Contains Hubble visual context data taken on 2022-07-28, an amateur cylindrical map (Miyazaki, I.) compiled from visible observations made by; Mike Wölle (Austria), Jacques van der Meer (France) and Ed Grafton (U.S.A) on 2022-08-15 and mid-Infrared VLT/VISIR data taken on 2022-08-08.
 
-### data
-
-Contains both the raw JWST/MIRI data and the atmospheric retrieval results, there are two epochs of data; July and August. For each epoch there are three sets of observations (tiles); East, Centre and West (Note July does not contain west data). A 3-stage NEMESIS atmospheric retrieval process was used containing; stage 1, stage 2 and stage 2 Auxiliary (AUX).
-
-```/[epoch]/[tile]/``` is the location of the raw data
-
-```/[epoch]/[tile]/retrieval_data/``` is the location of the retrieval results for each tile
-
-```/[epoch]/mosaics_stage[number]/``` is the location of the combined retrieval maps of temperature, ammonia, phosphine and aerosol distributions. [number] is either 1, 2 or 2_aux.
-
 ### figures
 
 Quick-look plots and figures used for Harkett et al. (2024) generated for the JWST/MIRI data and resulting atmospheric retrievals.
