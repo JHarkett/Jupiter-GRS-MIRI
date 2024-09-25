@@ -1,7 +1,7 @@
 # Thermal Structure and Composition of Jupiter's Great Red Spot from JWST/MIRI
 Supplementary material for Harkett et al. (2024).
 
-Jake Harkett, Leigh N. Fletcher, Oliver R.T. King, Michael T. Roman, Henrik Melin, Heidi B. Hammel, Ricardo Hueso, Agustín Sánchez-Lavega, Michael H. Wong, Stefanie N. Milam, Glenn S. Orton, Katherine de Kleer, Patrick G.J. Irwin, Imke de Pater, Thierry Fouchet, Pablo Rodríguez-Ovalle, Patrick M. Fry, Mark R. Showalter & the GTO/ERS team (2024), Thermal Structure and Composition of Jupiter's Great Red Spot from JWST/MIRI, (in prep).
+Jake Harkett, Leigh N. Fletcher, Oliver R.T. King, Michael T. Roman, Henrik Melin, Heidi B. Hammel, Ricardo Hueso, Agustín Sánchez-Lavega, Michael H. Wong, Stefanie N. Milam, Glenn S. Orton, Katherine de Kleer, Patrick G.J. Irwin, Imke de Pater, Thierry Fouchet, Pablo Rodríguez-Ovalle, Patrick M. Fry, Mark R. Showalter & the GTO/ERS team (2024), Thermal Structure and Composition of Jupiter's Great Red Spot from JWST/MIRI.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10785462.svg)](https://doi.org/10.5281/zenodo.10785462)
 
